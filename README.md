@@ -6,3 +6,8 @@ It is a two player game where a player gets chance one by one.both player need t
 Design Patten is used Model–view–presenter
 
 Design Principle is used material design
+
+
+Installing Steps:
+
+An apk is attached please find it.Download the apk in your android phone and follow the steps.
